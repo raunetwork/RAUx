@@ -1142,7 +1142,7 @@ h6 {
   z-index: 1;
 }
 .footer-middle .footer-box .footer-title .widget-title:after {
-  content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/title_bg.png");
+  content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/title_bg.png");
   position: absolute;
   top: -12px;
   left: -18px;
@@ -1481,7 +1481,7 @@ h6 {
     padding-left: 25px;
 }
 .footer-style-4 .footer-middle .footer-box .footer-title .widget-title:after {
-    content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/footer-shape.png);
+    content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/footer-shape.png);
     position: absolute;
     bottom: 0;
     left: 0;
@@ -1841,8 +1841,8 @@ hr {
   width: 15px;
   height: 28px;
   background-color: #ec1c24; /* defines the background color of the image */
-  mask: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
-  -webkit-mask: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
+  mask: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
+  -webkit-mask: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
 }
 .header-style-1 nav > ul > li.current-menu-item > a:before,
 .header-style-1 nav > ul > li.current-menu-ancestor > a:before {
@@ -1891,8 +1891,8 @@ hr {
   width: 15px;
   height: 28px;
   background-color: #ec1c24;
-  mask: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
-  -webkit-mask: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
+  mask: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
+  -webkit-mask: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/listening-shape.svg) no-repeat center / contain;
 }
 .header-style-4 nav > ul > li.current-menu-item > a:before,
 .header-style-4 nav > ul > li.current-menu-ancestor > a:before {
@@ -2211,7 +2211,7 @@ nav.template-main-menu > ul > li.mega-menu-col-2 ul.sub-menu > li {
   position: relative;
 }
 .menu-layout3 .menu-box nav.template-main-menu ul:first-child li.current-menu-ancestor > a:before {
-  content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape2.png");
+  content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape2.png");
   position: absolute;
   left: -0.3125rem;
   top: 51%;
@@ -2226,7 +2226,7 @@ nav.template-main-menu > ul > li.mega-menu-col-2 ul.sub-menu > li {
   }
 }
 .menu-layout3 .menu-box nav.template-main-menu ul:first-child li.current-menu-ancestor > a:after {
-  content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape1.png");
+  content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape1.png");
   position: absolute;
   right: -0.28rem;
   top: 51%;
@@ -2248,7 +2248,7 @@ nav.template-main-menu > ul > li.mega-menu-col-2 ul.sub-menu > li {
   position: relative;
 }
 .menu-layout3 .menu-box nav.template-main-menu ul li > a.active:before {
-  content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape2.png");
+  content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape2.png");
   position: absolute;
   left: -0.3125rem;
   top: 51%;
@@ -2258,7 +2258,7 @@ nav.template-main-menu > ul > li.mega-menu-col-2 ul.sub-menu > li {
   transition: all 0.3s ease-in-out;
 }
 .menu-layout3 .menu-box nav.template-main-menu ul li > a.active:after {
-  content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape1.png");
+  content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/menu-shape1.png");
   position: absolute;
   right: -0.28rem;
   top: 51%;
@@ -5646,7 +5646,7 @@ footer .widget_recent_comments ul li:hover a {
   -moz-appearance: none;
   appearance: none; 
   background-size: 12px;
-  background-image: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/select-arrow.png);
+  background-image: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/select-arrow.png);
   background-repeat: no-repeat;
   background-position: 95%;
 }
@@ -6429,7 +6429,7 @@ span.wp-calendar-nav-next {
 .hero-modern-banner .hero-area-wrap {
   padding: 320px 150px 360px 0;
   position: relative;
-  background-image: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/media/banner/slide-banner2.jpg");
+  background-image: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/media/banner/slide-banner2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -10717,7 +10717,7 @@ ul.item-social {
 }
 .team-modern-2 .team-box .item-img:before {
   position: absolute;
-  content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_31.png);
+  content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_31.png);
   top: 30px;
   right: 0;
   left: 0;
@@ -11337,7 +11337,7 @@ ul.item-social {
     z-index: 1;
 }
 .current-show-2 .media .media-body .host-name:after {
-	content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_20.png);
+	content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_20.png);
     position: absolute;
     top: -35px;
     left: 0px;
@@ -11363,7 +11363,7 @@ ul.item-social {
     color: #ffffff;
 }
 .current-show-2 .media .media-body .item-title:after {
-	content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_21.png);
+	content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_21.png);
     position: absolute;
     top: -35px;
     left: 0px;
@@ -11520,7 +11520,7 @@ ul.item-social {
     z-index: 1;
 }
 .current-show-3 .item-content .host-name:after {
-    content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_32.png);
+    content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_32.png);
     position: absolute;
     top: -35px;
     left: 0px;
@@ -11549,7 +11549,7 @@ ul.item-social {
   color: #fff;
 }
 .current-show-3 .item-content .item-title:after {
-    content: url(https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_33.png);
+    content: url(https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/shape_33.png);
     position: absolute;
     top: -35px;
     left: 0px;
@@ -13880,7 +13880,7 @@ ul.item-social {
 	width: 100%;
 }
 .track-list-5 ol li:after {
-	content: url("https://ikastph.github.io/raudio/wp-content/themes/fmwave/assets/img/element/feature_cart_bg.png");
+	content: url("https://raudioasia.github.io/raudio/wp-content/themes/fmwave/assets/img/element/feature_cart_bg.png");
 	position: absolute;
 	bottom: -9px;
 	right: 20px;
