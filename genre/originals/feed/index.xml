@@ -12,13 +12,13 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/originals/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Tue, 12 Jul 2022 12:52:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 09:28:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
@@ -35,241 +35,93 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-radio-listing-container"
-     data-countries='{"philippines":"Philippines"}'
-     data-genres='{"10":"Cebuano","9":"Filipino","7":"News","8":"Talk"}'
-     data-pagecount='0'
-     data-keyword=''
-     data-country=''
-     data-genre='31'
-     data-paginate='1'
-     data-perpage='10'
-     data-sort='asc'
-     data-regions=''
->
-    <div class="ssc ssc-card">
-        <div class="ssc-wrapper flex align-center justify-between">
-            <div class="ssc-line w-40"></div>
-            <div class="ssc-line w-20"></div>
-            <div class="ssc-line w-20"></div>
-        </div>
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoFilipinoInternationalIslamicMusicNewsSportsTalk Search No stations found Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest]]></description>
+										<content:encoded><![CDATA[<div class="wp-radio-listings">
+    <div class="wp-radio-listing-wrap ">
+		
+        <form class="wp-radio-search-form-wrap" action="">
+			
+<div class="wp-radio-search search-1">
+
+    <div class="search_toggle"
+         onclick="jQuery('.wp-radio-search-form').toggleClass('hidden');"
+    >
+        <button type="button" class="button-primary">
+            <i class="dashicons dashicons-menu"></i>
+			Search stations        </button>
     </div>
 
-    <div class="wp-radio-skeleton-wrap ">
-		                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="wp-radio-search-form ">
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+        <div class="search-input">
+            <input name="keyword" type="search" placeholder="Enter search keyword"
+                   value=""
+            >
+        </div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+		            <div class="wp-radio-select-wrap country-select">
+                <select name="country" class="wp-radio-select">
+                    <option value="">Select country</option>
+					<option value="philippines" >Philippines</option>                </select>
+            </div>
+		
+		            <div class="wp-radio-select-wrap genre-select">
+                <select name="genre" class="wp-radio-select">
+                    <option value="">Select genre</option>
+					<option value="10" >Cebuano</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+            </div>
+		
+        <button type="submit" class="wp-radio-search-form-submit">
+            <i class="dashicons dashicons-search"></i>
+            <span> Search </span>
+        </button>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+</div>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+<div class="listing-top">
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+    <div class="result-count">
 
-                        <div class="ssc-circle"></div>
-                    </div>
+		No stations found    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="show-per-page">
+        <label for="show_per_page">Show : </label>
+        <select id="show_per_page" class="show-per-page-selection" name="perpage"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+            <option value="">Items per page</option>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+			                <option value="5" >5</option>
+			                <option value="10" >10</option>
+			                <option value="15" >15</option>
+			                <option value="20" selected>20</option>
+			                <option value="30" >30</option>
+			                <option value="50" >50</option>
+			        </select>
+    </div>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    <div class="listing-sort">
+        <label for="listing_sort">Sort : </label>
+        <select id="listing_sort" class="listing-sort-selection" name="sort"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
+			                <option value="asc" selected>A -Z</option>
+			                <option value="desc" >Z -A</option>
+			                <option value="date_desc" >Newest</option>
+			                <option value="date_asc" >Oldest</option>
+			        </select>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+</div>
+        </form>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
-
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
-
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
-
-                        <div class="ssc-circle"></div>
-                    </div>
-
-                </div>
-			    </div>
-</div>]]></content:encoded>
+		    </div>
+</div>
+]]></content:encoded>
 					
 		
 		

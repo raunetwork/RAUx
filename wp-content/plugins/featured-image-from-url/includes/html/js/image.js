@@ -44,6 +44,10 @@ var observer = new MutationObserver(function (mutations) {
                     // ignore WooCommerce zoom
                     if (!jQuery(node).hasClass('pswp__zoom-wrap')) {
                         jQuery(node).find('img').each(function (index) {
+                            // dont touch on slider
+                            if (jQuery(this).attr('src') == 'null' || jQuery(this).hasClass('lazyload'))
+                                return;
+
                             fifu_lazy_ajax(this);
                         });
                     }

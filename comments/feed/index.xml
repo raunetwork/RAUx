@@ -11,11 +11,11 @@
 	<atom:link href="https://raudioasia.github.io/raudio/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Tue, 12 Jul 2022 12:52:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 09:28:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>

@@ -12,13 +12,13 @@
 	<atom:link href="https://raudioasia.github.io/raudio/country/national/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Tue, 12 Jul 2022 12:52:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 09:28:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
@@ -35,241 +35,493 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-radio-listing-container"
-     data-countries='{"philippines":"Philippines"}'
-     data-genres='{"10":"Cebuano","9":"Filipino","7":"News","8":"Talk"}'
-     data-pagecount='1'
-     data-keyword=''
-     data-country='national'
-     data-genre=''
-     data-paginate='1'
-     data-perpage='10'
-     data-sort='asc'
-     data-regions='[]'
->
-    <div class="ssc ssc-card">
-        <div class="ssc-wrapper flex align-center justify-between">
-            <div class="ssc-line w-40"></div>
-            <div class="ssc-line w-20"></div>
-            <div class="ssc-line w-20"></div>
-        </div>
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoFilipinoInternationalIslamicMusicNewsSportsTalk Search Showing 1 - 8 of 8 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest 24SN Country: National, Philippines Genres : NewsTalk iSports Country: National, Philippines Genres : SportsTalk iSports 2 Country: National, Philippines Genres... <a href="" class="read-more">[ View Station ]</a>]]></description>
+										<content:encoded><![CDATA[<div class="wp-radio-listings">
+    <div class="wp-radio-listing-wrap ">
+		
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/isportsxtra/">
+			
+<div class="wp-radio-search search-1">
+
+    <div class="search_toggle"
+         onclick="jQuery('.wp-radio-search-form').toggleClass('hidden');"
+    >
+        <button type="button" class="button-primary">
+            <i class="dashicons dashicons-menu"></i>
+			Search stations        </button>
     </div>
 
-    <div class="wp-radio-skeleton-wrap ">
-		                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="wp-radio-search-form ">
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+        <div class="search-input">
+            <input name="keyword" type="search" placeholder="Enter search keyword"
+                   value=""
+            >
+        </div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+		            <div class="wp-radio-select-wrap country-select">
+                <select name="country" class="wp-radio-select">
+                    <option value="">Select country</option>
+					<option value="philippines" >Philippines</option>                </select>
+            </div>
+		
+		            <div class="wp-radio-select-wrap genre-select">
+                <select name="genre" class="wp-radio-select">
+                    <option value="">Select genre</option>
+					<option value="10" >Cebuano</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+            </div>
+		
+        <button type="submit" class="wp-radio-search-form-submit">
+            <i class="dashicons dashicons-search"></i>
+            <span> Search </span>
+        </button>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+</div>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+<div class="listing-top">
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+    <div class="result-count">
 
-                        <div class="ssc-circle"></div>
-                    </div>
+		Showing 1 - 8 of 8 stations    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="show-per-page">
+        <label for="show_per_page">Show : </label>
+        <select id="show_per_page" class="show-per-page-selection" name="perpage"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+            <option value="">Items per page</option>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+			                <option value="5" >5</option>
+			                <option value="10" >10</option>
+			                <option value="15" >15</option>
+			                <option value="20" selected>20</option>
+			                <option value="30" >30</option>
+			                <option value="50" >50</option>
+			        </select>
+    </div>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    <div class="listing-sort">
+        <label for="listing_sort">Sort : </label>
+        <select id="listing_sort" class="listing-sort-selection" name="sort"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
+			                <option value="asc" selected>A -Z</option>
+			                <option value="desc" >Z -A</option>
+			                <option value="date_desc" >Newest</option>
+			                <option value="date_asc" >Oldest</option>
+			        </select>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+</div>
+        </form>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+		
+<div class="wp-radio-listing listing-38 ">
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/24sn/>
+            <img src=https://i.ibb.co/B48rqYN/24sn-social1.png alt="24SN" class="listing-thumb"/>
+        </a>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="listing-details">
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/24sn/" class="station-name">
+                <span>24SN</span>
+            </a>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+		
+<div class="genres">
+    <span>Genres : </span>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+	<a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="38"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14085.cloudrad.io:8660\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+	</div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+<div class="wp-radio-listing listing-378 ">
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/isports/>
+            <img src=https://i.ibb.co/R2j9rkz/isports-social1.png alt="iSports" class="listing-thumb"/>
+        </a>
+    </div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+    <div class="listing-details">
 
-                        <div class="ssc-circle"></div>
-                    </div>
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/isports/" class="station-name">
+                <span>iSports</span>
+            </a>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+		
+<div class="genres">
+    <span>Genres : </span>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="378"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":378,"title":"iSports","thumbnail":"https:\/\/i.ibb.co\/R2j9rkz\/isports-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14098.cloudrad.io:9075\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+	</div>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+<div class="wp-radio-listing listing-381 ">
 
-                        <div class="ssc-circle"></div>
-                    </div>
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/isports2/>
+            <img src=https://i.ibb.co/Np4LHkk/isports2-social1.png alt="iSports 2" class="listing-thumb"/>
+        </a>
+    </div>
 
-                </div>
-			                <div class="ssc ssc-card">
-                    <div class="ssc-wrapper flex align-center justify-between">
-                        <div class="ssc-square mr w-15"></div>
+    <div class="listing-details">
 
-                        <div class="w-80">
-                            <div class="ssc-head-line w-50 mb"></div>
-                            <div class="ssc-line w-70"></div>
-                            <div class="ssc-line w-30"></div>
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/isports2/" class="station-name">
+                <span>iSports 2</span>
+            </a>
 
-                            <div class="w-40 flex align-center justify-between">
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                                <div class="ssc-line w-22"></div>
-                            </div>
-                        </div>
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-                        <div class="ssc-circle"></div>
-                    </div>
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
 
-                </div>
-			    </div>
-</div>]]></content:encoded>
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="381"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":381,"title":"iSports 2","thumbnail":"https:\/\/i.ibb.co\/Np4LHkk\/isports2-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports2\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14791.cloudrad.io:8007\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-384 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/isports3/>
+            <img src=https://i.ibb.co/stLNZFw/isports3-social1.png alt="iSports 3" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/isports3/" class="station-name">
+                <span>iSports 3</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="384"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":384,"title":"iSports 3","thumbnail":"https:\/\/i.ibb.co\/stLNZFw\/isports3-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports3\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14792.cloudrad.io:8031\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-397 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/isportsxtra/>
+            <img src=https://i.ibb.co/FYZCpyb/isportsxtra-social1.png alt="iSports XTRA" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/isportsxtra/" class="station-name">
+                <span>iSports XTRA</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="397"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":397,"title":"iSports XTRA","thumbnail":"https:\/\/i.ibb.co\/FYZCpyb\/isportsxtra-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isportsxtra\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14567.cloudrad.io:8491\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-375 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/newsradio-buletin/>
+            <img src=https://i.ibb.co/9b6WXp3/newsradio-buletin-social1.png alt="NewsRadio Buletin" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/newsradio-buletin/" class="station-name">
+                <span>NewsRadio Buletin</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/islamic/">Islamic</a><a href="https://raudioasia.github.io/raudio/genre/music/">Music</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="375"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":375,"title":"NewsRadio Buletin","thumbnail":"https:\/\/i.ibb.co\/9b6WXp3\/newsradio-buletin-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-buletin\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14093.cloudrad.io:9091\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-46 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/newsradio-dos/>
+            <img src=https://i.ibb.co/1LMt44p/newsradio-dos-social.png alt="NewsRadio Dos" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/newsradio-dos/" class="station-name">
+                <span>NewsRadio Dos</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/cebuano/">Cebuano</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="46"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":46,"title":"NewsRadio Dos","thumbnail":"https:\/\/i.ibb.co\/1LMt44p\/newsradio-dos-social.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-dos\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14092.cloudrad.io:9764\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-42 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/newsradio-juan/>
+            <img src=https://i.ibb.co/t35RB43/newsradio-juan-social.png alt="NewsRadio Juan" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/newsradio-juan/" class="station-name">
+                <span>NewsRadio Juan</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="42"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:9318\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+    </div>
+</div>
+]]></content:encoded>
 					
 		
 		
