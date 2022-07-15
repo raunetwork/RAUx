@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/cebuano/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Fri, 15 Jul 2022 09:28:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 10:06:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,11 +35,11 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoFilipinoInternationalIslamicMusicNewsSportsTalk Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest NewsRadio Dos Country: National, Philippines Genres : CebuanoNewsTalk]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 2 of 2 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Kool FM Country: National, Philippines Genres : CebuanoCebuano Hits NewsRadio Dos Country: National, Philippines Genres : CebuanoNewsTalk]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/newsradio-dos/">
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/koolfm/">
 			
 <div class="wp-radio-search search-1">
 
@@ -68,7 +68,7 @@
 		            <div class="wp-radio-select-wrap genre-select">
                 <select name="genre" class="wp-radio-select">
                     <option value="">Select genre</option>
-					<option value="10" >Cebuano</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+					<option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
             </div>
 		
         <button type="submit" class="wp-radio-search-form-submit">
@@ -84,7 +84,7 @@
 
     <div class="result-count">
 
-		Showing 1 - 1 of 1 stations    </div>
+		Showing 1 - 2 of 2 stations    </div>
 
     <div class="show-per-page">
         <label for="show_per_page">Show : </label>
@@ -120,6 +120,56 @@
         </form>
 
 		
+<div class="wp-radio-listing listing-408 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/koolfm/>
+            <img src=https://i.ibb.co/MGRg998/raudio-koolfm-social1.png alt="Kool FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/koolfm/" class="station-name">
+                <span>Kool FM</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/cebuano/">Cebuano</a><a href="https://raudioasia.github.io/raudio/genre/cebuano-hits/">Cebuano Hits</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="408"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":408,"title":"Kool FM","thumbnail":"https:\/\/i.ibb.co\/MGRg998\/raudio-koolfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/koolfm\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14089.cloudrad.io:8088\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
 <div class="wp-radio-listing listing-46 ">
 
     <div class="listing-thumbnail">

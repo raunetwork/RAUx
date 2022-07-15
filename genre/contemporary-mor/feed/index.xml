@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Filipino &#8211; Raudio</title>
-	<atom:link href="https://raudioasia.github.io/raudio/genre/filipino/feed/" rel="self" type="application/rss+xml" />
+	<title>Contemporary MOR &#8211; Raudio</title>
+	<atom:link href="https://raudioasia.github.io/raudio/genre/contemporary-mor/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
 	<lastBuildDate>Fri, 15 Jul 2022 10:06:17 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
-	<title>Filipino &#8211; Raudio</title>
+	<title>Contemporary MOR &#8211; Raudio</title>
 	<link>https://raudioasia.github.io/raudio</link>
 	<width>32</width>
 	<height>32</height>
@@ -35,11 +35,11 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 2 of 2 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest iSports XTRA Country: National, Philippines Genres : FilipinoSportsTalk NewsRadio Juan Country: National, Philippines Genres : FilipinoNewsTalk]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Hot FM Country: National, Philippines Genres : Contemporary MOR]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/isportsxtra/">
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/hotfm/">
 			
 <div class="wp-radio-search search-1">
 
@@ -84,7 +84,7 @@
 
     <div class="result-count">
 
-		Showing 1 - 2 of 2 stations    </div>
+		Showing 1 - 1 of 1 stations    </div>
 
     <div class="show-per-page">
         <label for="show_per_page">Show : </label>
@@ -120,19 +120,19 @@
         </form>
 
 		
-<div class="wp-radio-listing listing-397 ">
+<div class="wp-radio-listing listing-406 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/isportsxtra/>
-            <img src=https://i.ibb.co/FYZCpyb/isportsxtra-social1.png alt="iSports XTRA" class="listing-thumb"/>
+        <a href=https://raudioasia.github.io/raudio/station/hotfm/>
+            <img src=https://i.ibb.co/RhYQ2Ms/raudio-hotfm-social1.png alt="Hot FM" class="listing-thumb"/>
         </a>
     </div>
 
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/isportsxtra/" class="station-name">
-                <span>iSports XTRA</span>
+            <a href="https://raudioasia.github.io/raudio/station/hotfm/" class="station-name">
+                <span>Hot FM</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
@@ -144,65 +144,15 @@
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://raudioasia.github.io/raudio/genre/contemporary-mor/">Contemporary MOR</a></div>
     </div>
 
     <div class="play-btn-wrap">
 		
         <button type="button"
                 class="play-btn"
-                data-id="397"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":397,"title":"iSports XTRA","thumbnail":"https:\/\/i.ibb.co\/FYZCpyb\/isportsxtra-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isportsxtra\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14567.cloudrad.io:8491\/stream"})'
-        >
-            <div class="wp-radio-spinner">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <i class="dashicons dashicons-controls-play"></i>
-            <i class="dashicons dashicons-controls-pause"></i>
-        </button>
-    </div>
-
-	</div>
-
-<div class="wp-radio-listing listing-42 ">
-
-    <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/newsradio-juan/>
-            <img src=https://i.ibb.co/t35RB43/newsradio-juan-social.png alt="NewsRadio Juan" class="listing-thumb"/>
-        </a>
-    </div>
-
-    <div class="listing-details">
-
-        <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/newsradio-juan/" class="station-name">
-                <span>NewsRadio Juan</span>
-            </a>
-
-			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
-
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
-        </div>
-
-		
-<div class="genres">
-    <span>Genres : </span>
-
-	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
-    </div>
-
-    <div class="play-btn-wrap">
-		
-        <button type="button"
-                class="play-btn"
-                data-id="42"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:9318\/stream"})'
+                data-id="406"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":406,"title":"Hot FM","thumbnail":"https:\/\/i.ibb.co\/RhYQ2Ms\/raudio-hotfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/hotfm\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14088.cloudrad.io:9585\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>

@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/talk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Fri, 15 Jul 2022 09:28:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 10:06:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoFilipinoInternationalIslamicMusicNewsSportsTalk Search Showing 1 - 9 of 9 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest 24SN Country: National, Philippines Genres : NewsTalk iSports Country: National, Philippines Genres : SportsTalk iSports 2 Country: National, Philippines Genres... <a href="" class="read-more">[ View Station ]</a>]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 9 of 9 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest 24SN Country: National, Philippines Genres : NewsTalk iSports Country: National, Philippines Genres : SportsTalk iSports 2 Country: National,... <a href="" class="read-more">[ View Station ]</a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
@@ -68,7 +68,7 @@
 		            <div class="wp-radio-select-wrap genre-select">
                 <select name="genre" class="wp-radio-select">
                     <option value="">Select genre</option>
-					<option value="10" >Cebuano</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+					<option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
             </div>
 		
         <button type="submit" class="wp-radio-search-form-submit">
