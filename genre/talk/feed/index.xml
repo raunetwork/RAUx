@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/talk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Sat, 16 Jul 2022 11:07:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Jul 2022 11:27:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -152,7 +152,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="38"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14085.cloudrad.io:8660\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14085.cloudrad.io:8831\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
