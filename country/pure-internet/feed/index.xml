@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pure Internet &#8211; Raudio</title>
+	<atom:link href="https://raudioasia.github.io/raudio/country/pure-internet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raudioasia.github.io/raudio</link>
+	<description>iKast</description>
+	<lastBuildDate>Thu, 04 Aug 2022 05:39:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
+	<title>Pure Internet &#8211; Raudio</title>
+	<link>https://raudioasia.github.io/raudio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link></link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest RNT Country: Pure Internet, Philippines Genres : InternationalNewsTalk]]></description>
+										<content:encoded><![CDATA[<div class="wp-radio-listings">
+    <div class="wp-radio-listing-wrap ">
+		
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/rnt/">
+			
+<div class="wp-radio-search search-1">
+
+    <div class="search_toggle"
+         onclick="jQuery('.wp-radio-search-form').toggleClass('hidden');"
+    >
+        <button type="button" class="button-primary">
+            <i class="dashicons dashicons-menu"></i>
+			Search stations        </button>
+    </div>
+
+    <div class="wp-radio-search-form ">
+
+        <div class="search-input">
+            <input name="keyword" type="search" placeholder="Enter search keyword"
+                   value=""
+            >
+        </div>
+
+		            <div class="wp-radio-select-wrap country-select">
+                <select name="country" class="wp-radio-select">
+                    <option value="">Select country</option>
+					<option value="philippines" >Philippines</option>                </select>
+            </div>
+		
+		            <div class="wp-radio-select-wrap genre-select">
+                <select name="genre" class="wp-radio-select">
+                    <option value="">Select genre</option>
+					<option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+            </div>
+		
+        <button type="submit" class="wp-radio-search-form-submit">
+            <i class="dashicons dashicons-search"></i>
+            <span> Search </span>
+        </button>
+
+    </div>
+
+</div>
+
+<div class="listing-top">
+
+    <div class="result-count">
+
+		Showing 1 - 1 of 1 stations    </div>
+
+    <div class="show-per-page">
+        <label for="show_per_page">Show : </label>
+        <select id="show_per_page" class="show-per-page-selection" name="perpage"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
+
+            <option value="">Items per page</option>
+
+			                <option value="5" >5</option>
+			                <option value="10" >10</option>
+			                <option value="15" >15</option>
+			                <option value="20" selected>20</option>
+			                <option value="30" >30</option>
+			                <option value="50" >50</option>
+			        </select>
+    </div>
+
+    <div class="listing-sort">
+        <label for="listing_sort">Sort : </label>
+        <select id="listing_sort" class="listing-sort-selection" name="sort"
+                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
+        >
+			                <option value="asc" selected>A -Z</option>
+			                <option value="desc" >Z -A</option>
+			                <option value="date_desc" >Newest</option>
+			                <option value="date_asc" >Oldest</option>
+			        </select>
+    </div>
+
+
+</div>
+        </form>
+
+		
+<div class="wp-radio-listing listing-399 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/rnt/>
+            <img src=https://i.ibb.co/vwkML21/rnt-social1.png alt="RNT" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/rnt/" class="station-name">
+                <span>RNT</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/pure-internet/">Pure Internet</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/international/">International</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="399"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":399,"title":"RNT","thumbnail":"https:\/\/i.ibb.co\/vwkML21\/rnt-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/rnt\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14114.cloudrad.io:8178\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+    </div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
