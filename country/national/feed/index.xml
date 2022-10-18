@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/country/national/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Thu, 04 Aug 2022 09:22:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 10:10:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,11 +35,11 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 11 of 11 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest 24SN Country: National, Philippines Genres : NewsTalk Hot FM Country: National, Philippines Genres : Contemporary MOR iSports Country:... <a href="" class="read-more">[ View Station ]</a>]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre Adult ContemporaryCebuanoCebuano HitsContemporary MORFilipinoHot ACInternationalIslamicMusicNewsOPMPopSportsTalkTop 40 Search Showing 1 - 14 of 14 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest 24SN Country: National, Philippines Genres : NewsTalk Hot FM Country: National, Philippines Genres : Contemporary... <a href="" class="read-more">[ View Station ]</a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/koolfm/">
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/plusfm/">
 			
 <div class="wp-radio-search search-1">
 
@@ -68,7 +68,7 @@
 		            <div class="wp-radio-select-wrap genre-select">
                 <select name="genre" class="wp-radio-select">
                     <option value="">Select genre</option>
-					<option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+					<option value="48" >Adult Contemporary</option><option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="49" >Hot AC</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="47" >Pop</option><option value="37" >Sports</option><option value="8" >Talk</option><option value="46" >Top 40</option>                </select>
             </div>
 		
         <button type="submit" class="wp-radio-search-form-submit">
@@ -84,7 +84,7 @@
 
     <div class="result-count">
 
-		Showing 1 - 11 of 11 stations    </div>
+		Showing 1 - 14 of 14 stations    </div>
 
     <div class="show-per-page">
         <label for="show_per_page">Show : </label>
@@ -152,7 +152,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="38"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14085.cloudrad.io:8831\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com\/http:\/\/e14085.cloudrad.io:8831\/stream?type=.aac"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -203,6 +203,56 @@
                 class="play-btn"
                 data-id="406"
                 onclick='wpRadioHooks.doAction("playPause",this, {"id":406,"title":"Hot FM","thumbnail":"https:\/\/i.ibb.co\/RhYQ2Ms\/raudio-hotfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/hotfm\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14088.cloudrad.io:9585\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-477 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/hitzfm/>
+            <img src=https://i.ibb.co/PM7zCh3/raudio-htz-i1.png alt="HTZ FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/hitzfm/" class="station-name">
+                <span>HTZ FM</span>
+            </a>
+
+			<span class="slogan">Philippines #1 Hit Music Station</span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/pop/">Pop</a><a href="https://raudioasia.github.io/raudio/genre/top-40/">Top 40</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="477"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":477,"title":"HTZ FM","thumbnail":"https:\/\/i.ibb.co\/PM7zCh3\/raudio-htz-i1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/hitzfm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/78.129.139.48:8068\/stream?type=.aac"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -503,6 +553,106 @@
                 class="play-btn"
                 data-id="408"
                 onclick='wpRadioHooks.doAction("playPause",this, {"id":408,"title":"Kool FM","thumbnail":"https:\/\/i.ibb.co\/MGRg998\/raudio-koolfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/koolfm\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14089.cloudrad.io:8088\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-481 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/plusfm/>
+            <img src=https://i.ibb.co/zJ8y8fL/raudio-loop-i1.png alt="Loop FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/plusfm/" class="station-name">
+                <span>Loop FM</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/opm/">OPM</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="481"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":481,"title":"Loop FM","thumbnail":"https:\/\/i.ibb.co\/zJ8y8fL\/raudio-loop-i1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/plusfm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/109.169.23.17:9037\/stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-479 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/lytefm/>
+            <img src=https://i.ibb.co/rfwsTLM/raudio-lyte-i1.png alt="Lyte FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/lytefm/" class="station-name">
+                <span>Lyte FM</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/adult-contemporary/">Adult Contemporary</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="479"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":479,"title":"Lyte FM","thumbnail":"https:\/\/i.ibb.co\/rfwsTLM\/raudio-lyte-i1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/lytefm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/109.169.23.123:8346\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>

@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/contemporary-mor/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Thu, 04 Aug 2022 09:22:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 10:10:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre CebuanoCebuano HitsContemporary MORFilipinoInternationalIslamicMusicNewsOPMSportsTalk Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Hot FM Country: National, Philippines Genres : Contemporary MOR]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre Adult ContemporaryCebuanoCebuano HitsContemporary MORFilipinoHot ACInternationalIslamicMusicNewsOPMPopSportsTalkTop 40 Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Hot FM Country: National, Philippines Genres : Contemporary MOR]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
@@ -68,7 +68,7 @@
 		            <div class="wp-radio-select-wrap genre-select">
                 <select name="genre" class="wp-radio-select">
                     <option value="">Select genre</option>
-					<option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="37" >Sports</option><option value="8" >Talk</option>                </select>
+					<option value="48" >Adult Contemporary</option><option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="49" >Hot AC</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="47" >Pop</option><option value="37" >Sports</option><option value="8" >Talk</option><option value="46" >Top 40</option>                </select>
             </div>
 		
         <button type="submit" class="wp-radio-search-form-submit">
