@@ -12,7 +12,7 @@
 	<atom:link href="https://raudioasia.github.io/raudio/genre/originals/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raudioasia.github.io/raudio</link>
 	<description>iKast</description>
-	<lastBuildDate>Wed, 26 Oct 2022 12:43:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Nov 2022 08:45:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,11 +35,11 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search stations Select country Philippines Select genre Adult ContemporaryCebuanoCebuano HitsContemporary MORFilipinoHot ACInternationalIslamicMusicNewsOPMPopSportsTalkTop 40 Search No stations found Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest]]></description>
+					<description><![CDATA[Search stations Select country Philippines Select genre Adult ContemporaryCebuanoCebuano HitsContemporary MORFilipinoHot ACInternationalIslamicMusicNewsOPMPopRaudio OriginalsSportsTalkTop 40 Search Showing 1 - 2 of 2 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Hot FM Country: National, Philippines Genres : Contemporary MORRaudio Originals Juan FM Your #1... <a href="" class="read-more">[ View Station ]</a>]]></description>
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="">
+        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/hotfm/">
 			
 <div class="wp-radio-search search-1">
 
@@ -68,7 +68,7 @@
 		            <div class="wp-radio-select-wrap genre-select">
                 <select name="genre" class="wp-radio-select">
                     <option value="">Select genre</option>
-					<option value="48" >Adult Contemporary</option><option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="49" >Hot AC</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="47" >Pop</option><option value="37" >Sports</option><option value="8" >Talk</option><option value="46" >Top 40</option>                </select>
+					<option value="48" >Adult Contemporary</option><option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="49" >Hot AC</option><option value="38" >International</option><option value="36" >Islamic</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="47" >Pop</option><option value="31" >Raudio Originals</option><option value="37" >Sports</option><option value="8" >Talk</option><option value="46" >Top 40</option>                </select>
             </div>
 		
         <button type="submit" class="wp-radio-search-form-submit">
@@ -84,7 +84,7 @@
 
     <div class="result-count">
 
-		No stations found    </div>
+		Showing 1 - 2 of 2 stations    </div>
 
     <div class="show-per-page">
         <label for="show_per_page">Show : </label>
@@ -119,7 +119,107 @@
 </div>
         </form>
 
-		    </div>
+		
+<div class="wp-radio-listing listing-406 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/hotfm/>
+            <img src=https://i.ibb.co/RhYQ2Ms/raudio-hotfm-social1.png alt="Hot FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/hotfm/" class="station-name">
+                <span>Hot FM</span>
+            </a>
+
+			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/contemporary-mor/">Contemporary MOR</a><a href="https://raudioasia.github.io/raudio/genre/originals/">Raudio Originals</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="406"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":406,"title":"Hot FM","thumbnail":"https:\/\/i.ibb.co\/RhYQ2Ms\/raudio-hotfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/hotfm\/","stream":"https:\/\/fps4.listen2myradio.com:2199\/listen.php?ip=109.169.23.123&#038;port=8008&#038;type=ice&#038;mount=stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+
+<div class="wp-radio-listing listing-403 ">
+
+    <div class="listing-thumbnail">
+        <a href=https://raudioasia.github.io/raudio/station/juanfm/>
+            <img src=https://i.ibb.co/4j4cJYf/raudio-juanfm-social1.png alt="Juan FM" class="listing-thumb"/>
+        </a>
+    </div>
+
+    <div class="listing-details">
+
+        <div class="listing-heading">
+            <a href="https://raudioasia.github.io/raudio/station/juanfm/" class="station-name">
+                <span>Juan FM</span>
+            </a>
+
+			<span class="slogan">Your #1 All-Pinoy Hit Station</span><div class="radio-country"><span>Country:</span>
+
+	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+        </div>
+
+		
+<div class="genres">
+    <span>Genres : </span>
+
+	<a href="https://raudioasia.github.io/raudio/genre/opm/">OPM</a><a href="https://raudioasia.github.io/raudio/genre/originals/">Raudio Originals</a></div>
+    </div>
+
+    <div class="play-btn-wrap">
+		
+        <button type="button"
+                class="play-btn"
+                data-id="403"
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":403,"title":"Juan FM","thumbnail":"https:\/\/i.ibb.co\/4j4cJYf\/raudio-juanfm-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/juanfm\/","stream":"https:\/\/fps4.listen2myradio.com:2199\/listen.php?ip=109.169.23.123&#038;port=8007&#038;type=ice&#038;mount=stream"})'
+        >
+            <div class="wp-radio-spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <i class="dashicons dashicons-controls-play"></i>
+            <i class="dashicons dashicons-controls-pause"></i>
+        </button>
+    </div>
+
+	</div>
+    </div>
 </div>
 ]]></content:encoded>
 					
