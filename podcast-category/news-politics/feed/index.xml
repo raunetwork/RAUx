@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News and Politics &#8211; Raudio</title>
-	<atom:link href="https://raudioasia.github.io/raudio/podcast-category/news-politics/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raudioasia.github.io/raudio</link>
+	<atom:link href="https://www.raudio.cf/podcast-category/news-politics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
 	<lastBuildDate>Fri, 04 Nov 2022 09:21:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
+	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
 	<title>News and Politics &#8211; Raudio</title>
-	<link>https://raudioasia.github.io/raudio</link>
+	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -47,7 +47,7 @@
             <i class="dashicons dashicons-menu"></i> Search        </button>
     </div>
 
-    <form action="https://raudioasia.github.io/raudio/podcasts/" method="get" id="podcast_search_form">
+    <form action="https://www.raudio.cf/podcasts/" method="get" id="podcast_search_form">
 
         <i class="dashicons dashicons-search"></i>
 
@@ -84,13 +84,13 @@
 				
 <div class="podcast-box-listing ">
 
-    <a class="listing-thumbnail" href="https://raudioasia.github.io/raudio/podcast/24sn-podcast/">
+    <a class="listing-thumbnail" href="https://www.raudio.cf/podcast/24sn-podcast/">
         <img src="https://i.ibb.co/B48rqYN/24sn-social1.png" alt="24SN Podcast">
     </a>
 
     <div class="listing-details">
 
-        <a href="https://raudioasia.github.io/raudio/podcast/24sn-podcast/" class="listing-heading">
+        <a href="https://www.raudio.cf/podcast/24sn-podcast/" class="listing-heading">
             <i class="dashicons dashicons-microphone"></i>
             <span class="podcast-name">24SN Podcast</span>
         </a>

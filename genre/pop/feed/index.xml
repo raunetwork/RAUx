@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pop &#8211; Raudio</title>
-	<atom:link href="https://raudioasia.github.io/raudio/genre/pop/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raudioasia.github.io/raudio</link>
+	<atom:link href="https://www.raudio.cf/genre/pop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
 	<lastBuildDate>Fri, 04 Nov 2022 09:21:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
+	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
 	<title>Pop &#8211; Raudio</title>
-	<link>https://raudioasia.github.io/raudio</link>
+	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,7 +39,7 @@
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/fm1/">
+        <form class="wp-radio-search-form-wrap" action="https://www.raudio.cf/station/fm1/">
 			
 <div class="wp-radio-search search-1">
 
@@ -123,7 +123,7 @@
 <div class="wp-radio-listing listing-477 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/hitzfm/>
+        <a href=https://www.raudio.cf/station/hitzfm/>
             <img src=https://i.ibb.co/PM7zCh3/raudio-htz-i1.png alt="HTZ FM" class="listing-thumb"/>
         </a>
     </div>
@@ -131,20 +131,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/hitzfm/" class="station-name">
+            <a href="https://www.raudio.cf/station/hitzfm/" class="station-name">
                 <span>HTZ FM</span>
             </a>
 
 			<span class="slogan">Philippines #1 Hit Music Station</span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/pop/">Pop</a><a href="https://raudioasia.github.io/raudio/genre/top-40/">Top 40</a></div>
+	<a href="https://www.raudio.cf/genre/pop/">Pop</a><a href="https://www.raudio.cf/genre/top-40/">Top 40</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -152,7 +152,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="477"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":477,"title":"HTZ FM","thumbnail":"https:\/\/i.ibb.co\/PM7zCh3\/raudio-htz-i1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/hitzfm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/78.129.139.48:8068\/stream?type=.aac"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":477,"title":"HTZ FM","thumbnail":"https:\/\/i.ibb.co\/PM7zCh3\/raudio-htz-i1.png","link":"https:\/\/www.raudio.cf\/station\/hitzfm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/78.129.139.48:8068\/stream?type=.aac"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -173,7 +173,7 @@
 <div class="wp-radio-listing listing-510 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/fm1/>
+        <a href=https://www.raudio.cf/station/fm1/>
             <img src=https://cdn-profiles.tunein.com/s301502/images/logog.png?t=1 alt="Republika FM1" class="listing-thumb"/>
         </a>
     </div>
@@ -181,20 +181,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/fm1/" class="station-name">
+            <a href="https://www.raudio.cf/station/fm1/" class="station-name">
                 <span>Republika FM1</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/metro-manila/">Metro Manila</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/metro-manila/">Metro Manila</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/live/">Live Radio</a><a href="https://raudioasia.github.io/raudio/genre/pop/">Pop</a><a href="https://raudioasia.github.io/raudio/genre/top-40/">Top 40</a></div>
+	<a href="https://www.raudio.cf/genre/live/">Live Radio</a><a href="https://www.raudio.cf/genre/pop/">Pop</a><a href="https://www.raudio.cf/genre/top-40/">Top 40</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -202,7 +202,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="510"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":510,"title":"Republika FM1","thumbnail":"https:\/\/cdn-profiles.tunein.com\/s301502\/images\/logog.png?t=1","link":"https:\/\/raudioasia.github.io\/raudio\/station\/fm1\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/122.53.138.32:8000\/dzrm.mp3"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":510,"title":"Republika FM1","thumbnail":"https:\/\/cdn-profiles.tunein.com\/s301502\/images\/logog.png?t=1","link":"https:\/\/www.raudio.cf\/station\/fm1\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/122.53.138.32:8000\/dzrm.mp3"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>

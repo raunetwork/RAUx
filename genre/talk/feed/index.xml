@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Talk &#8211; Raudio</title>
-	<atom:link href="https://raudioasia.github.io/raudio/genre/talk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raudioasia.github.io/raudio</link>
+	<atom:link href="https://www.raudio.cf/genre/talk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
 	<lastBuildDate>Fri, 04 Nov 2022 09:21:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
+	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
 	<title>Talk &#8211; Raudio</title>
-	<link>https://raudioasia.github.io/raudio</link>
+	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,7 +39,7 @@
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/radyo-pilipinas/">
+        <form class="wp-radio-search-form-wrap" action="https://www.raudio.cf/station/radyo-pilipinas/">
 			
 <div class="wp-radio-search search-1">
 
@@ -123,7 +123,7 @@
 <div class="wp-radio-listing listing-38 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/24sn/>
+        <a href=https://www.raudio.cf/station/24sn/>
             <img src=https://i.ibb.co/B48rqYN/24sn-social1.png alt="24SN" class="listing-thumb"/>
         </a>
     </div>
@@ -131,20 +131,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/24sn/" class="station-name">
+            <a href="https://www.raudio.cf/station/24sn/" class="station-name">
                 <span>24SN</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/ikastnews/">iKast News</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/ikastnews/">iKast News</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -152,7 +152,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="38"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com\/http:\/\/e14085.cloudrad.io:8831\/stream?type=.aac"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/www.raudio.cf\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com\/http:\/\/e14085.cloudrad.io:8831\/stream?type=.aac"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -173,7 +173,7 @@
 <div class="wp-radio-listing listing-378 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/isports/>
+        <a href=https://www.raudio.cf/station/isports/>
             <img src=https://i.ibb.co/R2j9rkz/isports-social1.png alt="iSports" class="listing-thumb"/>
         </a>
     </div>
@@ -181,20 +181,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/isports/" class="station-name">
+            <a href="https://www.raudio.cf/station/isports/" class="station-name">
                 <span>iSports</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/sports/">Sports</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -202,7 +202,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="378"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":378,"title":"iSports","thumbnail":"https:\/\/i.ibb.co\/R2j9rkz\/isports-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14098.cloudrad.io:9075\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":378,"title":"iSports","thumbnail":"https:\/\/i.ibb.co\/R2j9rkz\/isports-social1.png","link":"https:\/\/www.raudio.cf\/station\/isports\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14098.cloudrad.io:9075\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -223,7 +223,7 @@
 <div class="wp-radio-listing listing-381 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/isports2/>
+        <a href=https://www.raudio.cf/station/isports2/>
             <img src=https://i.ibb.co/Np4LHkk/isports2-social1.png alt="iSports 2" class="listing-thumb"/>
         </a>
     </div>
@@ -231,20 +231,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/isports2/" class="station-name">
+            <a href="https://www.raudio.cf/station/isports2/" class="station-name">
                 <span>iSports 2</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/sports/">Sports</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -252,7 +252,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="381"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":381,"title":"iSports 2","thumbnail":"https:\/\/i.ibb.co\/Np4LHkk\/isports2-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports2\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14791.cloudrad.io:8007\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":381,"title":"iSports 2","thumbnail":"https:\/\/i.ibb.co\/Np4LHkk\/isports2-social1.png","link":"https:\/\/www.raudio.cf\/station\/isports2\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14791.cloudrad.io:8007\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -273,7 +273,7 @@
 <div class="wp-radio-listing listing-384 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/isports3/>
+        <a href=https://www.raudio.cf/station/isports3/>
             <img src=https://i.ibb.co/stLNZFw/isports3-social1.png alt="iSports 3" class="listing-thumb"/>
         </a>
     </div>
@@ -281,20 +281,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/isports3/" class="station-name">
+            <a href="https://www.raudio.cf/station/isports3/" class="station-name">
                 <span>iSports 3</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/sports/">Sports</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -302,7 +302,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="384"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":384,"title":"iSports 3","thumbnail":"https:\/\/i.ibb.co\/stLNZFw\/isports3-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isports3\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14792.cloudrad.io:8031\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":384,"title":"iSports 3","thumbnail":"https:\/\/i.ibb.co\/stLNZFw\/isports3-social1.png","link":"https:\/\/www.raudio.cf\/station\/isports3\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14792.cloudrad.io:8031\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -323,7 +323,7 @@
 <div class="wp-radio-listing listing-397 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/isportsxtra/>
+        <a href=https://www.raudio.cf/station/isportsxtra/>
             <img src=https://i.ibb.co/FYZCpyb/isportsxtra-social1.png alt="iSports XTRA" class="listing-thumb"/>
         </a>
     </div>
@@ -331,20 +331,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/isportsxtra/" class="station-name">
+            <a href="https://www.raudio.cf/station/isportsxtra/" class="station-name">
                 <span>iSports XTRA</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/sports/">Sports</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/filipino/">Filipino</a><a href="https://www.raudio.cf/genre/sports/">Sports</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -352,7 +352,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="397"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":397,"title":"iSports XTRA","thumbnail":"https:\/\/i.ibb.co\/FYZCpyb\/isportsxtra-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/isportsxtra\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14567.cloudrad.io:8491\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":397,"title":"iSports XTRA","thumbnail":"https:\/\/i.ibb.co\/FYZCpyb\/isportsxtra-social1.png","link":"https:\/\/www.raudio.cf\/station\/isportsxtra\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14567.cloudrad.io:8491\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -373,7 +373,7 @@
 <div class="wp-radio-listing listing-375 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/newsradio-buletin/>
+        <a href=https://www.raudio.cf/station/newsradio-buletin/>
             <img src=https://i.ibb.co/9b6WXp3/newsradio-buletin-social1.png alt="NewsRadio Buletin" class="listing-thumb"/>
         </a>
     </div>
@@ -381,20 +381,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/newsradio-buletin/" class="station-name">
+            <a href="https://www.raudio.cf/station/newsradio-buletin/" class="station-name">
                 <span>NewsRadio Buletin</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/islamic/">Islamic</a><a href="https://raudioasia.github.io/raudio/genre/music/">Music</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/islamic/">Islamic</a><a href="https://www.raudio.cf/genre/music/">Music</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -402,7 +402,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="375"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":375,"title":"NewsRadio Buletin","thumbnail":"https:\/\/i.ibb.co\/9b6WXp3\/newsradio-buletin-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-buletin\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14093.cloudrad.io:9091\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":375,"title":"NewsRadio Buletin","thumbnail":"https:\/\/i.ibb.co\/9b6WXp3\/newsradio-buletin-social1.png","link":"https:\/\/www.raudio.cf\/station\/newsradio-buletin\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14093.cloudrad.io:9091\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -423,7 +423,7 @@
 <div class="wp-radio-listing listing-46 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/newsradio-dos/>
+        <a href=https://www.raudio.cf/station/newsradio-dos/>
             <img src=https://i.ibb.co/1LMt44p/newsradio-dos-social.png alt="NewsRadio Dos" class="listing-thumb"/>
         </a>
     </div>
@@ -431,20 +431,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/newsradio-dos/" class="station-name">
+            <a href="https://www.raudio.cf/station/newsradio-dos/" class="station-name">
                 <span>NewsRadio Dos</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/cebuano/">Cebuano</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/cebuano/">Cebuano</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -452,7 +452,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="46"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":46,"title":"NewsRadio Dos","thumbnail":"https:\/\/i.ibb.co\/1LMt44p\/newsradio-dos-social.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-dos\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14092.cloudrad.io:9764\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":46,"title":"NewsRadio Dos","thumbnail":"https:\/\/i.ibb.co\/1LMt44p\/newsradio-dos-social.png","link":"https:\/\/www.raudio.cf\/station\/newsradio-dos\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14092.cloudrad.io:9764\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -473,7 +473,7 @@
 <div class="wp-radio-listing listing-42 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/newsradio-juan/>
+        <a href=https://www.raudio.cf/station/newsradio-juan/>
             <img src=https://i.ibb.co/t35RB43/newsradio-juan-social.png alt="NewsRadio Juan" class="listing-thumb"/>
         </a>
     </div>
@@ -481,20 +481,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/newsradio-juan/" class="station-name">
+            <a href="https://www.raudio.cf/station/newsradio-juan/" class="station-name">
                 <span>NewsRadio Juan</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/ikastnews/">iKast News</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/filipino/">Filipino</a><a href="https://www.raudio.cf/genre/ikastnews/">iKast News</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -502,7 +502,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="42"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:9318\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/www.raudio.cf\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:9318\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -523,7 +523,7 @@
 <div class="wp-radio-listing listing-504 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/radyo-pilipinas/>
+        <a href=https://www.raudio.cf/station/radyo-pilipinas/>
             <img src=https://cdn-profiles.tunein.com/s45246/images/logog.png?t=151377 alt="Radyo Pilipinas" class="listing-thumb"/>
         </a>
     </div>
@@ -531,20 +531,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/radyo-pilipinas/" class="station-name">
+            <a href="https://www.raudio.cf/station/radyo-pilipinas/" class="station-name">
                 <span>Radyo Pilipinas</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/national/">National</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/filipino/">Filipino</a><a href="https://raudioasia.github.io/raudio/genre/live/">Live Radio</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/filipino/">Filipino</a><a href="https://www.raudio.cf/genre/live/">Live Radio</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -552,7 +552,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="504"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":504,"title":"Radyo Pilipinas","thumbnail":"https:\/\/cdn-profiles.tunein.com\/s45246\/images\/logog.png?t=151377","link":"https:\/\/raudioasia.github.io\/raudio\/station\/radyo-pilipinas\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/122.53.138.32:8000\/dzrb.mp3"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":504,"title":"Radyo Pilipinas","thumbnail":"https:\/\/cdn-profiles.tunein.com\/s45246\/images\/logog.png?t=151377","link":"https:\/\/www.raudio.cf\/station\/radyo-pilipinas\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/122.53.138.32:8000\/dzrb.mp3"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
@@ -573,7 +573,7 @@
 <div class="wp-radio-listing listing-399 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/rnt/>
+        <a href=https://www.raudio.cf/station/rnt/>
             <img src=https://i.ibb.co/vwkML21/rnt-social1.png alt="RNT" class="listing-thumb"/>
         </a>
     </div>
@@ -581,20 +581,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/rnt/" class="station-name">
+            <a href="https://www.raudio.cf/station/rnt/" class="station-name">
                 <span>RNT</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/pure-internet/">Pure Internet</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/pure-internet/">Pure Internet</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/international/">International</a><a href="https://raudioasia.github.io/raudio/genre/news/">News</a><a href="https://raudioasia.github.io/raudio/genre/talk/">Talk</a></div>
+	<a href="https://www.raudio.cf/genre/international/">International</a><a href="https://www.raudio.cf/genre/news/">News</a><a href="https://www.raudio.cf/genre/talk/">Talk</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -602,7 +602,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="399"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":399,"title":"RNT","thumbnail":"https:\/\/i.ibb.co\/vwkML21\/rnt-social1.png","link":"https:\/\/raudioasia.github.io\/raudio\/station\/rnt\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14114.cloudrad.io:8178\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":399,"title":"RNT","thumbnail":"https:\/\/i.ibb.co\/vwkML21\/rnt-social1.png","link":"https:\/\/www.raudio.cf\/station\/rnt\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14114.cloudrad.io:8178\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>

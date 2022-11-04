@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2000s &#8211; Raudio</title>
-	<atom:link href="https://raudioasia.github.io/raudio/genre/2000s/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raudioasia.github.io/raudio</link>
+	<atom:link href="https://www.raudio.cf/genre/2000s/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
 	<lastBuildDate>Fri, 04 Nov 2022 09:21:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://raudioasia.github.io/raudio/wp-content/uploads/raudio-2020-v2-icon.png</url>
+	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
 	<title>2000s &#8211; Raudio</title>
-	<link>https://raudioasia.github.io/raudio</link>
+	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,7 +39,7 @@
 										<content:encoded><![CDATA[<div class="wp-radio-listings">
     <div class="wp-radio-listing-wrap ">
 		
-        <form class="wp-radio-search-form-wrap" action="https://raudioasia.github.io/raudio/station/fm2/">
+        <form class="wp-radio-search-form-wrap" action="https://www.raudio.cf/station/fm2/">
 			
 <div class="wp-radio-search search-1">
 
@@ -123,7 +123,7 @@
 <div class="wp-radio-listing listing-512 ">
 
     <div class="listing-thumbnail">
-        <a href=https://raudioasia.github.io/raudio/station/fm2/>
+        <a href=https://www.raudio.cf/station/fm2/>
             <img src=http://cdn-profiles.tunein.com/s99642/images/logod.png?t=636555828423530000 alt="Capital FM2" class="listing-thumb"/>
         </a>
     </div>
@@ -131,20 +131,20 @@
     <div class="listing-details">
 
         <div class="listing-heading">
-            <a href="https://raudioasia.github.io/raudio/station/fm2/" class="station-name">
+            <a href="https://www.raudio.cf/station/fm2/" class="station-name">
                 <span>Capital FM2</span>
             </a>
 
 			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
 
-	<a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"><img src="https://raudioasia.github.io/raudio/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/metro-manila/">Metro Manila</a>, <a class="radio-country-link" href="https://raudioasia.github.io/raudio/country/philippines/"> Philippines</a></div>
+	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/metro-manila/">Metro Manila</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
         </div>
 
 		
 <div class="genres">
     <span>Genres : </span>
 
-	<a href="https://raudioasia.github.io/raudio/genre/2000s/">2000s</a><a href="https://raudioasia.github.io/raudio/genre/80s/">80s</a><a href="https://raudioasia.github.io/raudio/genre/90s/">90s</a><a href="https://raudioasia.github.io/raudio/genre/classic-hits/">Classic Hits</a><a href="https://raudioasia.github.io/raudio/genre/live/">Live Radio</a></div>
+	<a href="https://www.raudio.cf/genre/2000s/">2000s</a><a href="https://www.raudio.cf/genre/80s/">80s</a><a href="https://www.raudio.cf/genre/90s/">90s</a><a href="https://www.raudio.cf/genre/classic-hits/">Classic Hits</a><a href="https://www.raudio.cf/genre/live/">Live Radio</a></div>
     </div>
 
     <div class="play-btn-wrap">
@@ -152,7 +152,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="512"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":512,"title":"Capital FM2","thumbnail":"http:\/\/cdn-profiles.tunein.com\/s99642\/images\/logod.png?t=636555828423530000","link":"https:\/\/raudioasia.github.io\/raudio\/station\/fm2\/","stream":"https:\/\/tunzilla.com\/http:\/\/122.53.138.32:8000\/dwbr.mp3"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":512,"title":"Capital FM2","thumbnail":"http:\/\/cdn-profiles.tunein.com\/s99642\/images\/logod.png?t=636555828423530000","link":"https:\/\/www.raudio.cf\/station\/fm2\/","stream":"https:\/\/tunzilla.com\/http:\/\/122.53.138.32:8000\/dwbr.mp3"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
