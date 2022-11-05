@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>News and Politics &#8211; Raudio</title>
+	<title>News and Politics | Raudio</title>
 	<atom:link href="https://www.raudio.cf/podcast-category/news-politics/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
-	<lastBuildDate>Fri, 04 Nov 2022 10:11:59 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Nov 2022 16:54:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
-	<title>News and Politics &#8211; Raudio</title>
+	<title>News and Politics | Raudio</title>
 	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
@@ -35,7 +35,8 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Search Search Total 1 podcasts found. Change country Select Country 24SN Podcast iKast News]]></description>
+					<description><![CDATA[<p>Search Search Total 1 podcasts found. Change country Select Country 24SN Podcast iKast News</p>
+<p>The post <a href="">News and Politics – Podcasts</a> first appeared on <a href="https://www.raudio.cf">Raudio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div class="podcast-box-listings">
 
     <div class="podcast-box-listings-main">
@@ -106,7 +107,7 @@
 </div>            </div>
 			<div class="podcast-box-pagination" data-args='{"post_type":"podcast","posts_per_page":10,"orderby":"date","order":"DESC","tax_query":[{"relation":"AND","taxonomy":"podcast_category","field":"term_id","terms":[34]}]}' data-type="podcast" ></div>
     </div>
-</div>]]></content:encoded>
+</div><p>The post <a href="">News and Politics – Podcasts</a> first appeared on <a href="https://www.raudio.cf">Raudio</a>.</p>]]></content:encoded>
 					
 		
 		
