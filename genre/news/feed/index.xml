@@ -12,7 +12,7 @@
 	<atom:link href="https://www.raudio.cf/genre/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
-	<lastBuildDate>Fri, 04 Nov 2022 16:54:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 12:05:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -153,7 +153,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="38"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/www.raudio.cf\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com\/http:\/\/e14085.cloudrad.io:8831\/stream?type=.aac"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":38,"title":"24SN","thumbnail":"https:\/\/i.ibb.co\/B48rqYN\/24sn-social1.png","link":"https:\/\/www.raudio.cf\/station\/24sn\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14085.cloudrad.io:8831\/stream?type=.aac"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
