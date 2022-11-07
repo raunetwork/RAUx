@@ -12,7 +12,7 @@
 	<atom:link href="https://www.raudio.cf/genre/filipino/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
-	<lastBuildDate>Mon, 07 Nov 2022 02:15:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Nov 2022 08:50:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -203,7 +203,7 @@
         <button type="button"
                 class="play-btn"
                 data-id="42"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/www.raudio.cf\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:9318\/stream"})'
+                onclick='wpRadioHooks.doAction("playPause",this, {"id":42,"title":"NewsRadio Juan","thumbnail":"https:\/\/i.ibb.co\/t35RB43\/newsradio-juan-social.png","link":"https:\/\/www.raudio.cf\/station\/newsradio-juan\/","stream":"https:\/\/rbx2.hnux.com:443\/http:\/\/e14091.cloudrad.io:8025\/stream"})'
         >
             <div class="wp-radio-spinner">
                 <div></div>
