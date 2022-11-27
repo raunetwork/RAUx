@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Adult Contemporary | Raudio</title>
+	<title>Adult Contemporary &#8211; Raudio</title>
 	<atom:link href="https://www.raudio.cf/genre/adult-contemporary/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.raudio.cf</link>
 	<description>iKast</description>
-	<lastBuildDate>Mon, 07 Nov 2022 08:50:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Nov 2022 11:56:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://www.raudio.cf/wp-content/uploads/raudio-2020-v2-icon.png</url>
-	<title>Adult Contemporary | Raudio</title>
+	<title>Adult Contemporary &#8211; Raudio</title>
 	<link>https://www.raudio.cf</link>
 	<width>32</width>
 	<height>32</height>
@@ -35,143 +35,9 @@
 		<pubDate></pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Search stations Select country Philippines Select genre 2000s80s90sAdult ContemporaryCebuanoCebuano HitsClassic HitsContemporary MORFilipinoHot ACiKast NewsInternationalIslamicLive RadioMusicNewsOPMPopRaudio OriginalsSportsTalkTop 40 Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Lyte FM Country: National, Philippines Genres : Adult Contemporary</p>
-<p>The post <a href=""></a> first appeared on <a href="https://www.raudio.cf">Raudio</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-radio-listings">
-    <div class="wp-radio-listing-wrap ">
-		
-        <form class="wp-radio-search-form-wrap" action="https://www.raudio.cf/station/lytefm/">
-			
-<div class="wp-radio-search search-1">
-
-    <div class="search_toggle"
-         onclick="jQuery('.wp-radio-search-form').toggleClass('hidden');"
-    >
-        <button type="button" class="button-primary">
-            <i class="dashicons dashicons-menu"></i>
-			Search stations        </button>
-    </div>
-
-    <div class="wp-radio-search-form ">
-
-        <div class="search-input">
-            <input name="keyword" type="search" placeholder="Enter search keyword"
-                   value=""
-            >
-        </div>
-
-		            <div class="wp-radio-select-wrap country-select">
-                <select name="country" class="wp-radio-select">
-                    <option value="">Select country</option>
-					<option value="philippines" >Philippines</option>                </select>
-            </div>
-		
-		            <div class="wp-radio-select-wrap genre-select">
-                <select name="genre" class="wp-radio-select">
-                    <option value="">Select genre</option>
-					<option value="55" >2000s</option><option value="53" >80s</option><option value="54" >90s</option><option value="48" >Adult Contemporary</option><option value="10" >Cebuano</option><option value="41" >Cebuano Hits</option><option value="52" >Classic Hits</option><option value="40" >Contemporary MOR</option><option value="9" >Filipino</option><option value="49" >Hot AC</option><option value="51" >iKast News</option><option value="38" >International</option><option value="36" >Islamic</option><option value="50" >Live Radio</option><option value="35" >Music</option><option value="7" >News</option><option value="39" >OPM</option><option value="47" >Pop</option><option value="31" >Raudio Originals</option><option value="37" >Sports</option><option value="8" >Talk</option><option value="46" >Top 40</option>                </select>
-            </div>
-		
-        <button type="submit" class="wp-radio-search-form-submit">
-            <i class="dashicons dashicons-search"></i>
-            <span> Search </span>
-        </button>
-
-    </div>
-
-</div>
-
-<div class="listing-top">
-
-    <div class="result-count">
-
-		Showing 1 - 1 of 1 stations    </div>
-
-    <div class="show-per-page">
-        <label for="show_per_page">Show : </label>
-        <select id="show_per_page" class="show-per-page-selection" name="perpage"
-                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
-        >
-
-            <option value="">Items per page</option>
-
-			                <option value="5" >5</option>
-			                <option value="10" >10</option>
-			                <option value="15" >15</option>
-			                <option value="20" selected>20</option>
-			                <option value="30" >30</option>
-			                <option value="50" >50</option>
-			        </select>
-    </div>
-
-    <div class="listing-sort">
-        <label for="listing_sort">Sort : </label>
-        <select id="listing_sort" class="listing-sort-selection" name="sort"
-                onchange="var submitBtn = this.form.querySelector('[type=submit]'); if(submitBtn){submitBtn.click()}else{this.form.submit()}"
-        >
-			                <option value="asc" selected>A -Z</option>
-			                <option value="desc" >Z -A</option>
-			                <option value="date_desc" >Newest</option>
-			                <option value="date_asc" >Oldest</option>
-			        </select>
-    </div>
-
-
-</div>
-        </form>
-
-		
-<div class="wp-radio-listing listing-479 ">
-
-    <div class="listing-thumbnail">
-        <a href=https://www.raudio.cf/station/lytefm/>
-            <img src=https://i.ibb.co/rfwsTLM/raudio-lyte-i1.png alt="Lyte FM" class="listing-thumb"/>
-        </a>
-    </div>
-
-    <div class="listing-details">
-
-        <div class="listing-heading">
-            <a href="https://www.raudio.cf/station/lytefm/" class="station-name">
-                <span>Lyte FM</span>
-            </a>
-
-			<span class="slogan"></span><div class="radio-country"><span>Country:</span>
-
-	<a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"><img src="https://www.raudio.cf/wp-content/plugins/wp-radio/assets/images/flags/ww.svg" width="16" loading="lazy"></a><a class="radio-country-link" href="https://www.raudio.cf/country/national/">National</a>, <a class="radio-country-link" href="https://www.raudio.cf/country/philippines/"> Philippines</a></div>
-        </div>
-
-		
-<div class="genres">
-    <span>Genres : </span>
-
-	<a href="https://www.raudio.cf/genre/adult-contemporary/">Adult Contemporary</a></div>
-    </div>
-
-    <div class="play-btn-wrap">
-		
-        <button type="button"
-                class="play-btn"
-                data-id="479"
-                onclick='wpRadioHooks.doAction("playPause",this, {"id":479,"title":"Lyte FM","thumbnail":"https:\/\/i.ibb.co\/rfwsTLM\/raudio-lyte-i1.png","link":"https:\/\/www.raudio.cf\/station\/lytefm\/","stream":"https:\/\/tunzilla.com:443\/http:\/\/109.169.23.123:8346\/stream"})'
-        >
-            <div class="wp-radio-spinner">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <i class="dashicons dashicons-controls-play"></i>
-            <i class="dashicons dashicons-controls-pause"></i>
-        </button>
-    </div>
-
-	</div>
-    </div>
-</div><p>The post <a href=""></a> first appeared on <a href="https://www.raudio.cf">Raudio</a>.</p>]]></content:encoded>
+					<description><![CDATA[Search stations Select country Philippines Select genre 2000s80s90sAdult ContemporaryCebuanoCebuano HitsClassic HitsContemporary MORFilipinoHot ACiKast NewsInternationalIslamiciSportsLive RadioMusicNewsOPMPopRaudio OriginalsSportsTalkTop 40 Search Showing 1 - 1 of 1 stations Show : Items per page 5 10 15 20 30 50 Sort : A -Z Z -A Newest Oldest Lyte FM Country: National, Philippines Genres : Adult Contemporary]]></description>
+										<content:encoded><![CDATA[<p>Lyte FM Country: National, Philippines Genres : Adult Contemporary...</p>
+<p><a href="" rel="nofollow">Source</a></p>]]></content:encoded>
 					
 		
 		
