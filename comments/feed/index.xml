@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Raudio	</title>
-	<atom:link href="https://www.raudio.cf/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.raudio.cf</link>
+	<atom:link href="https://raudioasia.github.io/raudio/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raudioasia.github.io/raudio</link>
 	<description>The Best of Live Radio, Music, News, Sports, and Podcasts</description>
-	<lastBuildDate>Mon, 03 Apr 2023 12:53:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 16:11:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
