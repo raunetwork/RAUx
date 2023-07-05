@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Classic Hits &#8211; RAU</title>
-	<atom:link href="https://raudioasia.github.io/raudio/genre/classic-hits/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raudioasia.github.io/raudio</link>
+	<atom:link href="https://raudioasia.github.io/rau/genre/classic-hits/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raudioasia.github.io/rau</link>
 	<description>The Best of Live Radio, Music, News, Sports, and Podcasts</description>
 	<lastBuildDate>Wed, 05 Jul 2023 01:56:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://raudioasia.github.io/raudio/wp-content/uploads/nou-raudio-icon-i.png</url>
+	<url>https://raudioasia.github.io/rau/wp-content/uploads/nou-raudio-icon-i.png</url>
 	<title>Classic Hits &#8211; RAU</title>
-	<link>https://raudioasia.github.io/raudio</link>
+	<link>https://raudioasia.github.io/rau</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
