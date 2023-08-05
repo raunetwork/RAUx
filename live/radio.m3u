@@ -74,7 +74,7 @@ http://listen.shoutcast.com/dzrhmanila
 https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes FM
 https://s2.radio.co/sa85100da7/listen
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Easy_Rock_Logo_2009.png/250px-Easy_Rock_Logo_2009.png" group-title="PH Radio" radio="true",Easy Rock
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg/250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png" group-title="PH Radio" radio="true",Easy Rock
 https://s4.radio.co/s778110174/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin
 https://ph-icecast-win.eradioportal.com:8443/radyo_natin
