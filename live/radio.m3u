@@ -70,13 +70,13 @@ http://203.82.37.242:8010/cbu923fm
 http://203.82.37.242:8010/dvo891fm
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/DZRH_logo_2d.jpg/revision/latest/scale-to-width-down/300?cb=20210616071551" group-title="PH Radio" radio="true",DZRH
 http://listen.shoutcast.com/dzrhmanila
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/90.7-log-radio-logo.svg/220px-90.7-log-radio-logo.svg.png" group-title="PH Radio" radio="true",Love Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/150px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="PH Radio" radio="true",Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/DWYS_101.1_new_logo.png/220px-DWYS_101.1_new_logo.png" group-title="PH Radio" radio="true",Yes FM
 https://s2.radio.co/sa85100da7/listen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Easy_Rock_Logo_2009.png/250px-Easy_Rock_Logo_2009.png" group-title="PH Radio" radio="true",Easy Rock
 https://s4.radio.co/s778110174/listen
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/RadyoNatinNationwide.jpg/revision/latest/scale-to-width-down/200?cb=20210616074214" group-title="PH Radio" radio="true",Radyo Natin
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Radyo_Natin_early-2022_Logo.png/130px-Radyo_Natin_early-2022_Logo.png" group-title="PH Radio" radio="true",Radyo Natin
 https://ph-icecast-win.eradioportal.com:8443/radyo_natin
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Aksyon_Radyo_trans_logo.png/revision/latest?cb=20210616075515" group-title="PH Radio" radio="true",Aksyon Radyo Cebu
 http://listen.shoutcast.com/dyrccebuaksyonradyo648khz
